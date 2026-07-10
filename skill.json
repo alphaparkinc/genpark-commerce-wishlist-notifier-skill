@@ -1,17 +1,17 @@
-﻿{
-    "version":  "1.0.0",
-    "name":  "commerce-wishlist-notifier-skill",
-    "outputs":  {
-                    "result_val":  {
-                                       "type":  "string"
-                                   }
-                },
-    "description":  "Commerce wishlist items price drop alert tracking and notifier skill.",
-    "inputs":  {
-                   "input_val":  {
-                                     "type":  "string"
-                                 }
-               },
-    "author":  "alphaparkinc",
-    "prompt":  "Coordinate commerce-wishlist-notifier-skill operations using the input configurations."
+{
+  "version": "1.0.0",
+  "name": "commerce-wishlist-notifier-skill",
+  "outputs": {
+    "result_val": {
+      "type": "string"
+    }
+  },
+  "description": "GenPark AI Agent Skill - Commerce wishlist items price drop alert tracking and notifier skill.",
+  "inputs": {
+    "input_val": {
+      "type": "string"
+    }
+  },
+  "author": "genpark",
+  "prompt": "Coordinate commerce-wishlist-notifier-skill operations using the input configurations."
 }
