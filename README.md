@@ -1,4 +1,4 @@
-# commerce-wishlist-notifier-skill
+# genpark-commerce-wishlist-notifier-skill
 
 > **GenPark AI Agent Skill** -- ﻿
 
