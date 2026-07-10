@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "name": "commerce-wishlist-notifier-skill",
+  "name": "genpark-commerce-wishlist-notifier-skill",
   "outputs": {
     "result_val": {
       "type": "string"
